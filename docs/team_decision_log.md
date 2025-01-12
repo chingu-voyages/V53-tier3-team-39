@@ -10,32 +10,32 @@ you like the best.
 
 | No. | Question/Option | Sancho | Eoin | LifeAsDev | gforce.97 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Team meeting schedule | | | | |
-|   |	- Sprint Planning Sunday@9:00 a.m. CST | | | | |
+| 1 | Team meeting schedule |https://www.when2meet.com/?28322621-lxJc2| | | |
+|   |	- Sprint Planning Sunday@9:00 a.m. CST |X| | | |
 |   |	- Knowledge Xfer as needed | | | | |
-|   |	- Working Session Thursday@4:00 p.m. CST | | | | |
-| 2	| Project Backlog Tool | | | | |
+|   |	- Working Session Thursday@4:00 p.m. CST |X| | | |
+| 2	| Project Backlog Tool |Jira| | | |
 |   |	- Notion | | | | |
-|   |	- Jira | | | | |
+|   |	- Jira |X|X| | |
 | 3	| Technical Stack (vote by adding your pref. in the cell under your name) | | | | |
-|   |	- BE Language | | | | |
-|   |	- FE Language | | | | |
-|   |	- FE Framework | | | | |
+|   |	- BE Language |Javascript, Node.js runtime| | | |
+|   |	- FE Language |JavaScript| | | |
+|   |	- FE Framework |React, Next.js as an extension for advanced features| | | |
 |   |	- ML Framework | | | | |
 |   |	- Visualization/Graphics package (if required, e.g. D3, Nivo, etc.) | | | | |
-| 4	| Where to host the app? | | | | |
-|   |	- Heroku (suitable for FE, BE, & Postgres) | | | | |
+| 4	| Where to host the app? |VERCEL| | | |
+|   |	- Heroku (suitable for FE, BE, & Postgres) |X| | | |
 |   |	- Netlify (suitable only for FE) | | | | |
-|   |	- Vercel (suitable only for FE) | | | | |
+|   |	- Vercel (suitable only for FE) |X|X| | |
 |   |	- Mongo Atlas (suitable only for MongoDB) | | | | |
 | 5	| BE/FE repos organization | | | | |
 |   |	- Separate GitHub repos for each | | | | |
-|   |	- Single GitHub repo for both | | | | |
+|   |	- Single GitHub repo for both |X| | | |
 | 6	| Wireframing tool | | | | |
-|   |	- Paper & pencil | | | | |
+|   |	- Paper & pencil |X| | | |
 |   |	- Adobe XD | | | | |
 |   |	- Balsamiq | | | | |
-|   |	- Figma | | | | |
+|   |	- Figma |X| | | |
 | 7	| Who works in which part of the app? | | | | |
 |   | - BE (not applicable for Tier 1 teams) | | | | |
 |   |	- FE | | | | |
