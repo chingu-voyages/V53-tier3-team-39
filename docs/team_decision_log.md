@@ -17,7 +17,8 @@ you like the best.
 | 2	| Project Backlog Tool |Jira| | | |
 |   |	- Notion | | | | |
 |   |	- Jira |X|X| | |
-| 3	| Technical Stack (vote by adding your pref. in the cell under your name) | | | | |
+| 3	| Technical Stack (vote by adding your pref. in the cell under your name) | Frontend stack Nextjs nextauth Typescript Backend stack
+PostgreSQL prisma Docker
 |   |	- BE Language |Javascript, Node.js runtime| |Typescript,Mongodb,Express.js | |
 |   |	- FE Language |JavaScript| |Typescript, Elm | |
 |   |	- FE Framework |React, Next.js as an extension for advanced features| |Lets use Elm | |
@@ -28,10 +29,10 @@ you like the best.
 |   |	- Netlify (suitable only for FE) | | | | |
 |   |	- Vercel (suitable only for FE) |X|X| | |
 |   |	- Mongo Atlas (suitable only for MongoDB) | | | | |
-| 5	| BE/FE repos organization | | | | |
+| 5	| BE/FE repos organization |Single GitHub repo for both | | | |
 |   |	- Separate GitHub repos for each | | | | |
 |   |	- Single GitHub repo for both |X| | | |
-| 6	| Wireframing tool | | | | |
+| 6	| Wireframing tool | no wireframing tool| | | |
 |   |	- Paper & pencil |X| | | |
 |   |	- Adobe XD | | | | |
 |   |	- Balsamiq | | | | |
