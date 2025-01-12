@@ -18,9 +18,9 @@ you like the best.
 |   |	- Notion | | | | |
 |   |	- Jira |X|X| | |
 | 3	| Technical Stack (vote by adding your pref. in the cell under your name) | | | | |
-|   |	- BE Language |Javascript, Node.js runtime| | | |
-|   |	- FE Language |JavaScript| | | |
-|   |	- FE Framework |React, Next.js as an extension for advanced features| | | |
+|   |	- BE Language |Javascript, Node.js runtime| |Typescript,Mongodb,Express.js | |
+|   |	- FE Language |JavaScript| |Typescript, Elm | |
+|   |	- FE Framework |React, Next.js as an extension for advanced features| |Lets use Elm | |
 |   |	- ML Framework | | | | |
 |   |	- Visualization/Graphics package (if required, e.g. D3, Nivo, etc.) | | | | |
 | 4	| Where to host the app? |VERCEL| | | |
