@@ -17,8 +17,7 @@ you like the best.
 | 2	| Project Backlog Tool |Jira| | | |
 |   |	- Notion | | | | |
 |   |	- Jira |X|X| | |
-| 3	| Technical Stack (vote by adding your pref. in the cell under your name) | Frontend stack Nextjs nextauth Typescript Backend stack
-PostgreSQL prisma Docker
+| 3	| Technical Stack (vote by adding your pref. in the cell under your name) | Nextjs nextauth Typescript PostgreSQL prisma Docker| | |
 |   |	- BE Language |Javascript, Node.js runtime| |Typescript,Mongodb,Express.js | |
 |   |	- FE Language |JavaScript| |Typescript, Elm | |
 |   |	- FE Framework |React, Next.js as an extension for advanced features| |Lets use Elm | |
