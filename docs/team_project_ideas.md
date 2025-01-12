@@ -10,9 +10,9 @@ sentences.
 Each team member should Place an 'X' under their name to vote for the ideas 
 you like the best.
 
-| Project Idea | Description | teammate name | teammate name | teammate name | teammate name | teammate name | teammate name |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| First idea | Description | | | | | | |
-| Second idea | Description | | | | | | |
-| ... | Description | | | | | | |
-| Last idea | Description | | | | | | |
+| Project Idea | Description | Sancho | Eoin | teammate name | teammate name |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Walking paths | app intended to create walking paths for users to walk on | |X| | |
+| Friend Knows | group outing food-place decision tool |X|X| | |
+| when-2-meet | when-2-meet recreation |X| | | |
+| portrait business | AI portrait e-commerce website |X| | | |
