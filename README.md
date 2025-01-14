@@ -35,7 +35,6 @@ your repo access and to practice PR'ing with your team *before* you start
 coding!
 
 - Oscar Sanchez: [GitHub](https://github.com/oscarsanchez13) / [LinkedIn](https://www.linkedin.com/in/oscarsanchez13/)
-- Angelo Sarmiento: [GitHub](https://github.com/LifeAsDev)
- 
-   ...
-- Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Angelo Sarmiento: [GitHub](https://github.com/LifeAsDev) / [LinkedIn](https://www.linkedin.com/in/angelo-sarmiento-1bab3b290/)
+- Eoin McDonnell: [GitHub](https://github.com/oldmcdonnell)
+- Paul Pessoa: [GitHub](https://github.com/paulpessoa) / [LinkedIn](https://www.linkedin.com/in/paulmspessoa/)
