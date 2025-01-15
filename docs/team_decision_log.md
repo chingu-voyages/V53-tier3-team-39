@@ -19,7 +19,7 @@ you like the best.
 |   |	- Jira |X|X| | |
 | 3	| Technical Stack (vote by adding your pref. in the cell under your name) | Nextjs nextauth Typescript PostgreSQL prisma Docker| | |
 |   |	- BE Language |Javascript, Node.js runtime| |Typescript,Mongodb,Express.js | |
-|   |	- FE Language |JavaScript| |Typescript, Elm | |
+|   |	- FE Language |JavaScript| |Typescript, Elm | x |
 |   |	- FE Framework |React, Next.js as an extension for advanced features| |Lets use Elm | |
 |   |	- ML Framework | | | | |
 |   |	- Visualization/Graphics package (if required, e.g. D3, Nivo, etc.) | | | | |
