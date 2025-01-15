@@ -38,3 +38,67 @@ coding!
 - Angelo Sarmiento: [GitHub](https://github.com/LifeAsDev) / [LinkedIn](https://www.linkedin.com/in/angelo-sarmiento-1bab3b290/)
 - Eoin McDonnell: [GitHub](https://github.com/oldmcdonnell)
 - Paul Pessoa: [GitHub](https://github.com/paulpessoa) / [LinkedIn](https://www.linkedin.com/in/paulmspessoa/)
+
+
+
+Follow these steps to set up and run the application locally:
+
+1. **Install Dependencies**
+
+   First, install the required dependencies by running:
+
+   ```bash
+   npm install
+   ```
+2. **create docker-compose.yml**
+
+'''
+   services:
+  team39-db:
+    image: bitnami/postgresql
+    container_name: team39-db
+    ports:
+      - "5432:5432"
+    volumes:
+      - team39_pgdata:/var/lib/postgresql/data
+    environment:
+      - POSTGRESQL_USERNAME=docker
+      - POSTGRESQL_PASSWORD=docker
+      - POSTGRESQL_DATABASE=team39db
+'''
+
+volumes:
+  team39_pgdata:
+
+
+
+3. **Run Docker Compose**
+
+   Download and install Docker and run on your machine. Navigate to the root of the project directory and execute:
+
+   ```bash
+   docker-compose up -d
+   ```
+
+   This command will start a PostgreSQL database as defined in `docker-compose.yml` with persistent storage, ensuring data retention across restarts.
+
+4. **Set Up Environment Variables**
+
+   In the root directory, create a `.env` file with the following content:
+
+   ```env
+   DATABASE_URL="postgresql://docker:docker@localhost:5432/team39db"
+   ```
+
+   Ensure that `DATABASE_URL` matches the credentials and database settings configured in `docker-compose.yml`.
+
+   Create a environment variable called `AUTH_SECRET` and assign some string (any string) to it.
+   This is used by NextAuth to generate a token.
+
+5. **Install Prisma@5.22.0**
+
+   npm install prisma@5.22.0
+
+6. **apply migrations**
+
+   npx prisma migrate dev
