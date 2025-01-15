@@ -50,25 +50,26 @@ Follow these steps to set up and run the application locally:
    ```bash
    npm install
    ```
-2. **create docker-compose.yml**
 
-'''
+2. **Create `docker-compose.yml`**
+
+   ```yaml
    services:
-  team39-db:
-    image: bitnami/postgresql
-    container_name: team39-db
-    ports:
-      - "5432:5432"
-    volumes:
-      - team39_pgdata:/var/lib/postgresql/data
-    environment:
-      - POSTGRESQL_USERNAME=docker
-      - POSTGRESQL_PASSWORD=docker
-      - POSTGRESQL_DATABASE=team39db
-'''
+     team39-db:
+       image: bitnami/postgresql
+       container_name: team39-db
+       ports:
+         - "5432:5432"
+       volumes:
+         - team39_pgdata:/var/lib/postgresql/data
+       environment:
+         - POSTGRESQL_USERNAME=docker
+         - POSTGRESQL_PASSWORD=docker
+         - POSTGRESQL_DATABASE=team39db
 
-volumes:
-  team39_pgdata:
+   volumes:
+     team39_pgdata:
+
 
 
 
