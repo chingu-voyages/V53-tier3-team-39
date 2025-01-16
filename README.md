@@ -1,42 +1,26 @@
-# voyage-tasks
+# TastyTally (tentative name)
+Team 39 - Voyage 53
 
-Your project's `readme` is as important to success as your code. For 
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
+## Application Description
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point - 
-[Keys to a well-written README](https://tinyurl.com/yk3wubft).
+**Purpose/Mission of the Application:**
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
+Our application, **"TastyTally"**, helps groups or pairs of people quickly and fairly decide where to eat. By simplifying the decision-making process, TastyTally removes the stress and indecision often involved in group food choices. Whether you’re planning a casual dinner now or organizing a group outing in the future, our platform streamlines the selection and voting process to ensure everyone has a voice—and a delicious outcome.
 
-> Own it & Make it your Own!
+**What TastyTally Does:**
+
+1. **Event Creation**: Users can create unique events with custom names, dates, times, and durations for selecting and voting.
+2. **Collaborative Selection**: Friends can contribute their suggestions for dining spots using a sharable event link. The app even suggests highly-rated local restaurants based on user preferences and location.
+3. **Democratic Voting**: Participants vote on the suggestions. The app tallies votes in real time, identifies winners, and resolves ties with a fun tie-breaker process.
+4. **Instant Decisions**: Need an answer now? Use the “Quick Event” mode to make immediate decisions with fast-paced selection and voting periods.
+
+By balancing individual preferences with group consensus, TastyTally makes choosing a dining spot an engaging and enjoyable experience.
 
 ## Project Management
 
 https://voyage53-team39.atlassian.net/
 
-## Team Documents
-
-You may find these helpful as you work together to organize your project.
-
-- [Team Project Ideas](./docs/team_project_ideas.md)
-- [Team Decision Log](./docs/team_decision_log.md)
-
-Meeting Agenda templates (located in the `/docs` directory in this repo):
-
-- Meeting - Voyage Kickoff --> ./docs/meeting-voyage_kickoff.docx
-- Meeting - App Vision & Feature Planning --> ./docs/meeting-vision_and_feature_planning.docx
-- Meeting - Sprint Retrospective, Review, and Planning --> ./docs/meeting-sprint_retrospective_review_and_planning.docx
-- Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
-
 ## Our Team
-
-Everyone on your team should add their name along with a link to their GitHub
-& optionally their LinkedIn profiles below. Do this in Sprint #1 to validate
-your repo access and to practice PR'ing with your team *before* you start
-coding!
 
 - Oscar Sanchez: [GitHub](https://github.com/oscarsanchez13) / [LinkedIn](https://www.linkedin.com/in/oscarsanchez13/)
 - Angelo Sarmiento: [GitHub](https://github.com/LifeAsDev) / [LinkedIn](https://www.linkedin.com/in/angelo-sarmiento-1bab3b290/)
