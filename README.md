@@ -13,6 +13,10 @@ in your `readme` feel free to replace the text we've provided here.
 
 > Own it & Make it your Own!
 
+## Project Management
+
+https://voyage53-team39.atlassian.net/
+
 ## Team Documents
 
 You may find these helpful as you work together to organize your project.
@@ -39,7 +43,7 @@ coding!
 - Eoin McDonnell: [GitHub](https://github.com/oldmcdonnell)
 - Paul Pessoa: [GitHub](https://github.com/paulpessoa) / [LinkedIn](https://www.linkedin.com/in/paulmspessoa/)
 
-
+## Getting Started
 
 Follow these steps to set up and run the application locally:
 
