@@ -10,7 +10,7 @@ sentences.
 Each team member should Place an 'X' under their name to vote for the ideas 
 you like the best.
 
-| Project Idea | Description | Sancho | Eoin | teammate name | teammate name |
+| Project Idea | Description | Sancho | Eoin | LifeAsDev | gforce.97 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Walking paths | app intended to create walking paths for users to walk on | |X| | |
 | Friend Knows | group outing food-place decision tool |X|X| | |
