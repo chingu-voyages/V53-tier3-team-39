@@ -1,0 +1,15 @@
+services:
+  team39-db:
+    image: bitnami/postgresql
+    container_name: team39-db
+    ports:
+      - "5432:5432"
+    volumes:
+      - team39_pgdata:/var/lib/postgresql/data
+    environment:
+      - POSTGRESQL_USERNAME=docker
+      - POSTGRESQL_PASSWORD=docker
+      - POSTGRESQL_DATABASE=team39db
+
+volumes:
+  team39_pgdata:
