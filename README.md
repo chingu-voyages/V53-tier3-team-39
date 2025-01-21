@@ -1,4 +1,4 @@
-# TastyTally (tentative name)
+# TastyTally
 Team 39 - Voyage 53
 
 ## Application Description
@@ -16,9 +16,37 @@ Our application, **"TastyTally"**, helps groups or pairs of people quickly and f
 
 By balancing individual preferences with group consensus, TastyTally makes choosing a dining spot an engaging and enjoyable experience.
 
+### **Breakdown of How the Application Works**
+
+#### **Overview of Functionality:**
+1. **Event Creation (Home Page):**
+   - Users create a unique event by entering a name, event time/date, and duration for the selection and voting periods.
+   - If “now” is selected, the app sets a default selection and voting duration (3 and 2 minutes, respectively).
+   - Clicking “Create an event and make a selection” generates an event and takes users to the Selection/Voting page.
+
+2. **Selection Process (Selection/Voting Page):**
+   - Users access a unique URL to join the event.
+   - Participants sign in with a unique name and an optional password.
+   - They can suggest a dining location or select from pre-populated food categories (e.g., Mexican, Italian) for top-rated nearby restaurants.
+   - Submitted selections are displayed on a live panel with a countdown timer until the selection period ends.
+
+3. **Voting Process (Selection/Voting Page):**
+   - Once the selection period ends, users vote on the submitted suggestions.
+   - Real-time updates show the votes per suggestion, the number of participants yet to vote, and the remaining voting time.
+   - If a majority vote is achieved, voting ends automatically, and the winner is announced.
+   - If a tie occurs, users enter a tie-breaker round to re-vote or allow the app to randomize a winner.
+
+4. **Event Outcome:**
+   - The app announces the winning selection and offers the option to create a new event.
+
+
 ## Project Management
 
 https://voyage53-team39.atlassian.net/
+
+## Technology
+
+- >>>>Someone please update this
 
 ## Our Team
 
