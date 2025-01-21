@@ -1,4 +1,4 @@
-# TastyTally (tentative name)
+# TastyTally
 Team 39 - Voyage 53
 
 ## Application Description
@@ -43,6 +43,10 @@ By balancing individual preferences with group consensus, TastyTally makes choos
 ## Project Management
 
 https://voyage53-team39.atlassian.net/
+
+## Technology
+
+- >>>>Someone please update this
 
 ## Our Team
 
