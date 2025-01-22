@@ -3,7 +3,6 @@ import { League_Spartan } from "next/font/google";
 import "./globals.css";
 
 const leagueSpartan = League_Spartan({
-	variable: "--font-geist-sans",
 	subsets: ["latin"],
 });
 
@@ -19,7 +18,7 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
-			<body className={`${leagueSpartan.variable} antialiased`}>
+			<body className={`${leagueSpartan.className} antialiased`}>
 				{children}
 			</body>
 		</html>
