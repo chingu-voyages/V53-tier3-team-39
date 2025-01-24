@@ -1,0 +1,26 @@
+.main {
+	width: 100vw;
+	min-height: 90vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.newEventBox {
+	display: flex;
+	flex-direction: column;
+}
+
+.main h2 {
+	font-size: 2em;
+	font-weight: 700;
+	margin-bottom: 0.5em;
+}
+
+.main input {
+	margin-bottom: 1em;
+}
+
+.main label {
+	font-weight: 500;
+}

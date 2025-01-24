@@ -6,16 +6,37 @@
 	--red1: hsl(14, 86%, 42%);
 	--red2: hsl(14, 88%, 29%);
 	--green: hsl(159, 69%, 38%);
-	--rose50: hsl(20, 50%, 98%);
+	--rose50: hsl(20, 50%, 98%); /* background color */
 	--rose100: hsl(13, 31%, 94%);
 	--rose300: hsl(14, 25%, 72%);
 	--rose400: hsl(7, 20%, 60%);
 	--rose500: hsl(12, 20%, 44%);
-	--rose900: hsl(14, 65%, 9%);
+	--rose900: hsl(14, 65%, 9%); /*text color*/
+	--border-radius: 4px;
 }
 
 body {
 	color: var(--rose900);
 	background: var(--rose50);
 	margin: 0;
+}
+
+input {
+	padding: 0.5em;
+	outline: none;
+	border: 1px solid var(--rose300);
+	border-radius: var(--border-radius);
+	line-height: normal;
+}
+
+button {
+	background-color: var(--rose900);
+	color: var(--rose50);
+	padding: 0.5em;
+	font-weight: 500;
+	border-radius: var(--border-radius);
+}
+
+button:hover {
+	opacity: 0.9;
 }
