@@ -46,7 +46,7 @@ https://voyage53-team39.atlassian.net/
 
 ## Technology
 
-- >>>>Someone please update this
+- >
 
 ## Our Team
 
